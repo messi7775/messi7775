@@ -34,9 +34,9 @@ apt install perl -y
 apt install clang -y
 apt install macchanger -y
 apt install jq -y
-apt install tor -
+apt install tor -y
 apt install openssh -y
-apt install openssly unzip zip nodejs libxml2-utils grep bc ffmpeg zsh screenfetch
+apt install openssly unzip zip nodejs libxml2-utils grep bc ffmpeg zsh screenfetch openssh git wget curl
 apt-get update -y
 figlet -f big Done!!! | lolcat
 figlet -f standard Thank for using... | lolcat
